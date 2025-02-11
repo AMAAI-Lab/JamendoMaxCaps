@@ -1,0 +1,9 @@
+{
+    "audio_features_path": "/data/shared/JamendoMaxCaps/mert_2_test/combined.pt",
+    "metadata_features_path": "/data/shared/JamendoMaxCaps/metadata_encoded/encoded_metadata.pt",
+    "captions_path": "/data/shared/JamendoMaxCaps/captions.jsonl",
+    "output_path": "./docs/similar_songs_all.json",
+    "weight_audio": 0.6,
+    "weight_metadata": 0.4,
+    "k": 10
+}
