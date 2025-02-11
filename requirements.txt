@@ -1,0 +1,8 @@
+numpy==1.26.4
+huggingface-hub==0.26.5
+faiss-gpu==1.7.2
+jsonlines==4.0.0
+torch==2.5.1
+torchaudio==2.5.1
+tqdm==4.67.1
+scikit-learn==1.6.1
