@@ -67,7 +67,7 @@ python metadata_imputation.py
 ## 📖 Citation
 If you use **JamendoMaxCaps**, please cite:
 ```bibtex
-@article{YourPaper2025,
+@article{royjamendo2025,
   author    = {Abhinaba Roy, Renhang Liu, Tongyu Lu, Dorien Herremans},
   title     = {JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata},
   year      = {2025},
