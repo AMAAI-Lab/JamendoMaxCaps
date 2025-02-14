@@ -1,7 +1,7 @@
 # 🎼 JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata
 
 <div align="center">
-<a href="https://arxiv.org/abs/xxxxx">📄 Paper</a> |
+<a href="https://arxiv.org/abs/2502.07461">📄 Paper</a> |
 <a href="https://huggingface.co/datasets/AMAAI-Lab/JamendoMaxCaps">🎵 Dataset</a>
 
 <br/>
@@ -71,7 +71,7 @@ If you use **JamendoMaxCaps**, please cite:
   author    = {Abhinaba Roy, Renhang Liu, Tongyu Lu, Dorien Herremans},
   title     = {JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata},
   year      = {2025},
-  journal   = {arXiv:xxxxx}
+  journal   = {arXiv:2502.07461}
 }
 ```
 
