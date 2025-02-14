@@ -7,7 +7,7 @@
 <br/>
 
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/AMAAI-Lab/JamendoMaxCaps) 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxxx-brightgreen.svg)](https://arxiv.org/abs/xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.07461-brightgreen.svg)](https://arxiv.org/abs/2502.07461)
 </div>
 
 ## 📌 Overview
