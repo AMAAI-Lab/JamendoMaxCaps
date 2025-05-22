@@ -14,7 +14,7 @@
 JamendoMaxCaps is a large-scale dataset of **362,000 instrumental tracks** sourced from the Jamendo platform. It includes **generated music captions** and enhanced **imputed metadata**. We also introduce a retrieval system that leverages both musical features and metadata to identify similar songs, which are then used to fill in missing metadata using a local large language model (LLLM). This dataset supports research in **music-language understanding, retrieval, representation learning, and AI-generated music tasks.**
 
 ## ✨ Features
-✅ **200,000+ Instrumental Tracks** from Jamendo  
+✅ **362,000 Instrumental Tracks** from Jamendo  
 ✅ **State-of-the-Art Music Captions** generated using a cutting-edge model  
 ✅ **Metadata Imputation** using a retrieval-enhanced LLM (Llama-2)  
 ✅ **Comprehensive Musical and Metadata Features**:
