@@ -79,5 +79,5 @@ If you use **JamendoMaxCaps**, please cite:
 JamendoMaxCaps is built upon **Creative Commons-licensed music** from the Jamendo platform and leverages advanced AI models, including **MERT, Flan-T5, and Llama-2**. Special thanks to the research community for their invaluable contributions to open-source AI development!
 
 ---
-📜 **[Read the Paper](https://arxiv.org/abs/xxxxx)** | 🎵 **[Explore the Dataset](https://huggingface.co/datasets/AMAAI-Lab/JamendoMaxCaps)**
+📜 **[Read the Paper](https://arxiv.org/abs/2502.07461)** | 🎵 **[Explore the Dataset](https://huggingface.co/datasets/AMAAI-Lab/JamendoMaxCaps)**
 
