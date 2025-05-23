@@ -18,8 +18,6 @@ JamendoMaxCaps is a large-scale dataset of **362,000 instrumental creative commo
 ✅ **State-of-the-Art Music Captions** generated using a cutting-edge model  
 ✅ **Metadata Imputation** using a retrieval-enhanced LLM (Llama-2)  
 ✅ **Comprehensive Musical and Metadata Features**:
-   - 🎵 **MERT-based audio embeddings**
-   - 📝 **Flan-T5 metadata embeddings**
    - 🔍 **Imputed metadata fields** (genre, tempo, mood, instrumentation)  
 
 ---
