@@ -1,5 +1,5 @@
 
-## JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata
+<h1 align="center">JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata</h1>
 
 <div align="center">
 <a href="https://arxiv.org/abs/2502.07461">📄 Paper</a> |
