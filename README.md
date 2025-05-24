@@ -1,4 +1,5 @@
-# 🎼 JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata
+
+## JamendoMaxCaps: A Large-Scale Music-Caption Dataset with Imputed Metadata
 
 <div align="center">
 <a href="https://arxiv.org/abs/2502.07461">📄 Paper</a> |
@@ -8,6 +9,10 @@
 
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/AMAAI-Lab/JamendoMaxCaps) 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.07461-brightgreen.svg)](https://arxiv.org/abs/2502.07461)
+</div>
+
+<div align="center">
+  <img src="jmaxcaps.jpeg" width="500"/>
 </div>
 
 ## 📌 Overview
